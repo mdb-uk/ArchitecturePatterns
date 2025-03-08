@@ -1,0 +1,5 @@
+{{time}} | {{date}}
+# Links
+
+[[]]
+# Content
