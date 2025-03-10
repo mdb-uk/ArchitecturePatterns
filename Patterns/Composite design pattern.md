@@ -1,8 +1,5 @@
-15:47 | 2024-11-05
-# Links
-
-[[Software design patterns Master Index]]
-# Content
+[[Architecture Patterns Index]]
+# Composite design pattern
 
 This is a **Structural** design pattern that lets you compose objects into tree structures and then work with these structures as if they were individual objects.
 

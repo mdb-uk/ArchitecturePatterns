@@ -1,7 +1,5 @@
-# Links
-
-[[Architecture]] [[Architecture Patterns Index]]
-# Content
+[[Architecture Patterns Index]]
+# BFF (Backends For Frontends)
 
 
 The Backend for Frontend (BFF) is a software architecture pattern that involves creating a separate backend service for each frontend client[1](https://blog.bitsrc.io/bff-pattern-backend-for-frontend-an-introduction-e4fa965128bf). Here are some key points about the BFF pattern:

@@ -1,8 +1,5 @@
-12:05 | 2024-09-27
-# Links
-
-[[Architecture]] [[Architecture Patterns Index]]
-# Content
+[[Architecture Patterns Index]]
+# Microkernel (Plugin)
 
 This pattern separates the core functionality of a system from it's extended functionalities. 
 
@@ -15,7 +12,7 @@ Advantages:
 - Extensible
 - Flexible
 - Isolation
-Disadvtantages:
+Disadvantages:
 - Complexity of management & coordination
 - Performance Overhead
 

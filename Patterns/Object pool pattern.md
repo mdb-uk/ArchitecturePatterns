@@ -1,8 +1,5 @@
-13:16 | 2024-10-28
-# Links
-
-[[Software design patterns Master Index]]
-# Content
+[[Architecture Patterns Index]]
+# Object pool pattern
 
 This is a creational design patter that managed a pool of reusable objects to minimize the overhead of creating and destroying objects.
 

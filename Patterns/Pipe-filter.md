@@ -1,8 +1,5 @@
-11:34 | 2024-09-30
-# Links
-
-[[Architecture]] [[Architecture Patterns Index]]
-# Content
+[[Architecture Patterns Index]]
+# Pipe-filter
 
 This pattern is used to process data in a series of steps, where each step (filter) transforms the data and passes it to the next step through a connector (pipe). This pattern is particularly useful for stream processing and data transformation tasks.
 

@@ -1,8 +1,5 @@
-12:01 | 2024-11-19
-# Links
-
 [[Architecture Patterns Index]] 
-# Content
+# Federated Identity Pattern
 
 This pattern delegates authentication to an external Identity Provider (IDP). This allows users to use a single identity across various applications.
 

@@ -1,8 +1,5 @@
-09:03 | 2025-02-19
-# Links
-
 [[Architecture Patterns Index]]
-# Content
+# Reverse Proxy
 
 This pattern involves a server, the reverse proxy, sitting between a client and backend servers. The server forwards client requests to the appropriate backend server and then returns the server's response to the client.
 

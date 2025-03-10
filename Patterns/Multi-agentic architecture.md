@@ -1,9 +1,5 @@
-
-08:12 | 2025-03-07
-# Links
-
-[[AI]] [[Architecture Patterns Index]]
-# Content
+[[Architecture Patterns Index]]
+# Multi-agentic architecture
 
 Multiple Agents with specialised roles working together. 
 

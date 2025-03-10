@@ -1,8 +1,5 @@
-07:38 | 2024-10-25
-# Links
-
 [[Architecture Patterns Index]]
-# Content
+# Serverless Architecture
 
 This pattern involves building and running applications without managing the underlying infrastructure. A cloud provider such as Azure or AWS handles provisioning, scaling and maintenance of the servers that are actually running the code under the hood. They are usually stateless (although exceptions to this exist like Azure Durable functions)
 

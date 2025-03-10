@@ -1,7 +1,5 @@
-# Links
-
-[[Architecture]] [[Architecture Patterns Index]] [[Microservices (tag)|Microservices (tag)]]
-# Content
+[[Architecture Patterns Index]]
+# Microservices
 
 This pattern is an approach where an application is structured as a collection of small autonomous services. Each of these is self-contained and focuses on specific business capability within a bounded context.
 

@@ -1,8 +1,6 @@
-08:44 | 2024-10-04
-# Links
 
-[[Software design patterns Master Index]]
-# Content
+[[Architecture Patterns Index]]
+# Abstract Factory Pattern
 
 This is a Creational design pattern that lets you create families of related objects without specifying their concrete class.
 

@@ -1,8 +1,5 @@
-14:51 | 2024-10-29
-# Links
-
 [[Architecture Patterns Index]]
-# Content
+# ACL (Anti-corruption layer) Pattern
 
 
 This pattern managed interactions between subsystems, especially when integrating modern applications with legacy systems or external services.

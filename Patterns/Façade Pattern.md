@@ -1,8 +1,5 @@
-14:56 | 2024-10-29
-# Links
-
-[[Software design patterns Master Index]]
-# Content
+[[Architecture Patterns Index]]
+# Façade Pattern
 
 This structural pattern involves a class or component sat in front of another and providing a simplified interface to the other component.
 

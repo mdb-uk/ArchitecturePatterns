@@ -1,8 +1,5 @@
-14:23 | 2024-12-13
-# Links
-
-[[Software design patterns Master Index]]
-# Content
+[[Architecture Patterns Index]]
+# Mediator Pattern
 
 The mediator pattern lets you reduce and simplify dependencies between objects.
 

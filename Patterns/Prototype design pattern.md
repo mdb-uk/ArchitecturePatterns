@@ -1,8 +1,5 @@
-10:10 | 2024-10-23
-# Links
-
-[[Software design patterns Master Index]]
-# Content
+[[Architecture Patterns Index]]
+# Prototype design pattern
 
 **Prototype** is a creational design pattern that lets you copy existing objects without making your code dependent on their classes.
 

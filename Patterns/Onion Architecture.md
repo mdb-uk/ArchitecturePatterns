@@ -1,8 +1,5 @@
-15:26 | 2024-11-28
-# Links
-
-[[Software design patterns Master Index]]
-# Content
+[[Architecture Patterns Index]]
+# Onion Architecture
 
 The Onion Architecture is a way of architecting an application from a code perspective.
 

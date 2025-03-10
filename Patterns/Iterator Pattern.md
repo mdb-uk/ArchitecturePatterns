@@ -1,8 +1,5 @@
-11:19 | 2024-12-03
-# Links
-
-[[Software design patterns Master Index]]
-# Content
+[[Architecture Patterns Index]]
+# Iterator Pattern
 
 This is a behavioural design pattern that provides a way to access the elements of a collection sequentially without giving access to the actual collection object.
 

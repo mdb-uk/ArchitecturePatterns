@@ -1,8 +1,5 @@
-11:17 | 2025-01-06
-# Links
-
-[[Software design patterns Master Index]]
-# Content
+[[Architecture Patterns Index]]
+# Observer Pattern
 
 The Observer Pattern is a behavioural design pattern that allows you to define a subscription mechanism so that objects can subscribe themselves to receive updates pertaining to the object they are observing.
 

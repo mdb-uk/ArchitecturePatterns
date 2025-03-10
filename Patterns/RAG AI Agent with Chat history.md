@@ -1,8 +1,5 @@
-08:26 | 2025-02-05
-# Links
-
-[[1 - Tags/AI]] [[Architecture Patterns Index]]
-# Content
+[[Architecture Patterns Index]]
+# RAG AI Agent with Chat history
 
 https://www.youtube.com/watch?v=V_0dNE-H2gw&list=WL&index=11
 

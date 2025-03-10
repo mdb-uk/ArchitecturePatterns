@@ -1,7 +1,5 @@
-# Links
-
-[[Architecture]] [[Architecture Patterns Index]]
-# Content
+ [[Architecture Patterns Index]]
+# Client-server
 
 
 This pattern divides the system into two main parts; the client and the server.

@@ -1,8 +1,5 @@
-07:55 | 2024-10-25
-# Links
-
-[[Software design patterns Master Index]]
-# Content
+[[Architecture Patterns Index]]
+# Singleton
 
 Creational design pattern that lets you enforce a single instance of a class while providing a global access point to this instance.
 

@@ -1,7 +1,5 @@
-# Links
-
-[[Architecture]] [[Architecture Patterns Index]]
-# Content
+ [[Architecture Patterns Index]]
+# Layered (n-tier)
 
 https://www.oreilly.com/library/view/software-architecture-patterns/9781491971437/ch01.html
 

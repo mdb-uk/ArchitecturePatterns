@@ -1,8 +1,5 @@
-10:25 | 2024-10-18
-# Links
-
 [[Architecture Patterns Index]]
-# Content
+# Valet Key
 
 [Valet Key pattern - Azure Architecture Center | Microsoft Learn](https://learn.microsoft.com/en-us/azure/architecture/patterns/valet-key)
 

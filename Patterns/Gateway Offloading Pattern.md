@@ -1,8 +1,5 @@
-10:04 | 2024-11-28
-# Links
-
 [[Architecture Patterns Index]]
-# Content
+# Gateway Offloading Pattern
 
 This pattern involved offloading shared or specialised service functionality to a centralised gateway proxy.
 

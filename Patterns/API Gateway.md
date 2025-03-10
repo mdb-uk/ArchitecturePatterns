@@ -1,8 +1,5 @@
-16:13 | 2025-02-11
-# Links
-
 [[Architecture Patterns Index]]
-# Content
+# API Gateway
 
 This pattern involves a service that acts as a reverse proxy between clients and services behind the gateway.
 

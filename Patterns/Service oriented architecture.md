@@ -1,8 +1,5 @@
-11:25 | 2024-10-28
-# Links
-
 [[Architecture Patterns Index]]
-# Content
+# Service oriented architecture
 
 This pattern allows services to communicate over a network.
 

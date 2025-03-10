@@ -1,8 +1,5 @@
-11:23 | 2025-02-27
-# Links
-
 [[Architecture Patterns Index]]
-# Content
+# Composite UI via Microservices
 
 ![[Pasted image 20250227112321.png]]
 

@@ -1,8 +1,5 @@
-15:01 | 2024-11-14
-# Links
-
-[[Software design patterns Master Index]]
-# Content
+[[Architecture Patterns Index]]
+# Flyweight Pattern
 
 This is a structural design pattern that lets you save memory by keeping certain parts of the state shared between objects.
 

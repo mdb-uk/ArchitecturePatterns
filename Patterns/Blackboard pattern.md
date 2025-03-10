@@ -1,7 +1,5 @@
-# Links
-
-[[Architecture]] [[Architecture Patterns Index]]
-# Content
+[[Architecture Patterns Index]]
+# Blackboard pattern
 
 This is a problem solving approach that uses a modular and decentralised framework.
 

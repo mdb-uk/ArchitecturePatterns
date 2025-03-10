@@ -1,11 +1,9 @@
-# Links
-
-[[Architecture]] [[Architecture Patterns Index]]
-# Content
+[[Architecture Patterns Index]]
+# CQRS
 
 Command Query Responsibility Segregation.
 
-Seperates the logic that handles commands from the logic that handles queries.
+Separates the logic that handles commands from the logic that handles queries.
 
 Often used in event driven apps
 

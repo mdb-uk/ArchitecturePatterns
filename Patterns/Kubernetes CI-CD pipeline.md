@@ -1,7 +1,4 @@
-09:45 | 2025-03-07
-# Links
-
 [[Architecture Patterns Index]]
-# Content
+# Kubernetes CI-CD pipeline
 
 ![[Pasted image 20250307094530.png]]

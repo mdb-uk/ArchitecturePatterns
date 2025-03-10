@@ -1,8 +1,5 @@
-14:44 | 2025-01-06
-# Links
-
 [[Architecture Patterns Index]]
-# Content
+# Priority Queue Pattern
 
 This pattern enables a workload to prioritise certain tasks and have them dealt with before lower priority tasks.
 

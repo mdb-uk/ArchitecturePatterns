@@ -1,7 +1,5 @@
-# Links
-
-[[Architecture]] [[Architecture Patterns Index]]
-# Content
+[[Architecture Patterns Index]]
+# Pub-Sub
 
 
 The publish-subscribe architecture is a messaging pattern used to enable async, scalable and decoupled communication between difference components or services.

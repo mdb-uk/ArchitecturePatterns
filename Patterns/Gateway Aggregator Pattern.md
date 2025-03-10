@@ -1,8 +1,5 @@
-14:19 | 2024-11-21
-# Links
-
 [[Architecture Patterns Index]]
-# Content
+# Gateway Aggregator Pattern
 
 ### Overview
 

@@ -1,8 +1,5 @@
-08:10 | 2025-03-07
-# Links
-
-[[Architecture Patterns Index]] [[AI]]
-# Content
+[[Architecture Patterns Index]]
+# Agentic self reflection
 
 Allows agents to review their own output and refine it further. 
 

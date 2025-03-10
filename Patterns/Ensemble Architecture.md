@@ -1,8 +1,5 @@
-10:52 | 2025-02-28
-# Links
-
-[[Architecture Patterns Index]] [[AI]]
-# Content
+[[Architecture Patterns Index]]
+# Ensemble Architecture
 
 
 Historically the decisions about AI usage were limited to "traditional" AI (Machine Learning or Deep Learning) or LLMs (Large language models, encoder/decoder etc).

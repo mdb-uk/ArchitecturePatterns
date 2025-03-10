@@ -1,8 +1,5 @@
-08:11 | 2025-03-07
-# Links
-
-[[Architecture Patterns Index]] [[AI]]
-# Content
+[[Architecture Patterns Index]]
+# Agentic planning
 
 Allows agents to create plans and strategies for dealing with tasks and problems.
 

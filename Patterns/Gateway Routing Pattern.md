@@ -1,8 +1,5 @@
-10:46 | 2024-11-28
-# Links
-
 [[Architecture Patterns Index]]
-# Content
+# Gateway Routing Pattern
 
 This pattern allows you to handle requests via a Gateway and then route it to one of many possible options based on the request itself.
 

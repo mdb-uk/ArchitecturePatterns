@@ -1,8 +1,5 @@
-07:21 | 2024-09-20
-# Links
-
-[[Architecture]] [[Architecture Patterns Index]]
-# Content
+ [[Architecture Patterns Index]]
+# Event Sourcing
 
 This pattern is a way of handling data operations. Rather than just maintaining the current state of data, it keeps a full record (append-only) of all events that have occurred.
 

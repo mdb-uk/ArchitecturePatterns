@@ -1,8 +1,5 @@
-11:37 | 2025-02-10
-# Links
-
-[[Architecture Patterns Index]] [[1 - Tags/AI]]
-# Content
+[[Architecture Patterns Index]]
+# Agentic AI baseline architecture
 
 "This article provides a baseline architecture for building and deploying Agentic AI Systems that use frameworks like AutoGen, LangChain, LlamaIndex or Semantic Kernel."
 

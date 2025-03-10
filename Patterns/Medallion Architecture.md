@@ -1,7 +1,5 @@
-# Links
-
-[[Architecture]] [[Architecture Patterns Index]]
-# Content
+[[Architecture Patterns Index]]
+# Medallion Architecture
 
 
 [What is a Medallion Architecture? (databricks.com)](https://www.databricks.com/glossary/medallion-architecture)

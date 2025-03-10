@@ -1,8 +1,5 @@
-15:53 | 2024-11-12
-# Links
-
 [[Architecture Patterns Index]]
-# Content
+# Compute Resource Consolidation Pattern
 
 This pattern is a strategy used to optimise the use of compute resource in cloud environments.
 

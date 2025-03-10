@@ -1,7 +1,5 @@
-# Links
-
-[[Architecture]] [[Architecture Patterns Index]]
-# Content
+ [[Architecture Patterns Index]]
+# Shared-Disk Architecture
 
 [[Shared-Nothing Architecture]]
 

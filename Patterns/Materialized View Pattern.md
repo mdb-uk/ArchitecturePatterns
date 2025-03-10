@@ -1,8 +1,5 @@
-06:46 | 2024-12-13
-# Links
-
 [[Architecture Patterns Index]]
-# Content
+# Materialized View Pattern
 
 This is a design approach used to optimise data querying and retrieval.
 

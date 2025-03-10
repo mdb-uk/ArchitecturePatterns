@@ -1,8 +1,5 @@
-14:12 | 2025-01-29
-# Links
-
 [[Architecture Patterns Index]]
-# Content
+# Pipeline Architecture
 
 This pattern is commonly used in big data processing and software engineering. There are a series of data processing steps where each step performs it's task and then passes information on to the next step.
 

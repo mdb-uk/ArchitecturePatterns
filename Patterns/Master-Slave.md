@@ -1,8 +1,5 @@
-07:57 | 2024-09-24
-# Links
-
-[[Architecture Patterns Index]] [[Architecture]]
-# Content
+[[Architecture Patterns Index]]
+# Master-Slave
 
 This design approach  is used to distribute tasks and improve system performance and reliability.
 

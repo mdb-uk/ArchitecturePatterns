@@ -1,8 +1,5 @@
-11:18 | 2024-11-19
-# Links
-
 [[Architecture Patterns Index]]
-# Content
+# External Configuration Store pattern
 
 This pattern involves moving configuration out of the application code / deployment package entirely and storing it in a centralised location (such as Azure Configuration Manager).
 

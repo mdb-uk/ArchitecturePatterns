@@ -1,8 +1,5 @@
-14:37 | 2024-10-03
-# Links
-
-[[Software design patterns Master Index]]
-# Content
+[[Architecture Patterns Index]]
+# Factory Method Pattern
 
 Creational design pattern. Provides an interface for creating objects in a superclass, but allows subclasses to alter the type of object that will be created.
 

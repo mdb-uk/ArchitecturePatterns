@@ -1,8 +1,5 @@
-15:57 | 2024-10-30
-# Links
-
 [[Architecture Patterns Index]]
-# Content
+# Async Request-Reply Pattern
 
 Used often in cloud and distributed systems, this pattern is a communication strategy which allows a client to send a request to a service without waiting for an immediate response. The client carries on with other tasks and the server sends a response in due course.
 

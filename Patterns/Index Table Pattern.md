@@ -1,8 +1,5 @@
-15:28 | 2024-12-03
-# Links
-
 [[Architecture Patterns Index]]
-# Content
+# Index Table Pattern
 
 This pattern is used to improve query performance in data stores, particularly when the data store doesn't support secondary indexes. The pattern creates indexes to cover fields that are often queried.
 

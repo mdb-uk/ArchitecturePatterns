@@ -1,8 +1,5 @@
-09:30 | 2025-01-31
-# Links
-
-[[DevOps]] [[Architecture Patterns Index]]
-# Content
+[[Architecture Patterns Index]]
+# Canary deployment
 
 Rolling a change out to a small subset of users to minimise the chances of any issues.
 

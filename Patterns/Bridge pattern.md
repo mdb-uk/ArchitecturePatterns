@@ -1,8 +1,5 @@
-15:19 | 2024-10-31
-# Links
-
-[[Software design patterns Master Index]]
-# Content
+[[Architecture Patterns Index]]
+# Bridge pattern
 
 This pattern uses composition instead of inheritance to allow the implementation of a class to vary from the abstraction of it.
 

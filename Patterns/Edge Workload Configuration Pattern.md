@@ -1,8 +1,5 @@
-15:16 | 2024-11-18
-# Links
-
 [[Architecture Patterns Index]]
-# Content
+# Edge Workload Configuration Pattern
 
 This pattern is used to manage and configure workloads at the edge of a network, such as IoT devices or edge servers.
 

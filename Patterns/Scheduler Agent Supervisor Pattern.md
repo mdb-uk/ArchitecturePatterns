@@ -1,8 +1,5 @@
-11:59 | 2025-01-27
-# Links
-
 [[Architecture Patterns Index]]
-# Content
+# Scheduler Agent Supervisor Pattern
 
 This pattern coordinates a set of distributed actions as a single operation. If any of the actions fail it will attempt to handle the failures transparently and if this still does not lead to successful completion then the entire operation will be rolled back in a transaction like manner. This can add resiliency to a distributed system.
 

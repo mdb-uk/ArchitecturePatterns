@@ -1,8 +1,5 @@
-13:52 | 2024-11-29
-# Links
-
-[[Software design patterns Master Index]]
-# Content
+[[Architecture Patterns Index]]
+# Command Pattern
 
 This is a behavioural design pattern that turns a request into a stand alone object that contains all information about that request. You can then process the command at a convenient time, pass method arguments with it, queue it, and support rollback operations.
 

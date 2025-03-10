@@ -1,8 +1,5 @@
-14:29 | 2024-11-14
-# Links
-
 [[Architecture Patterns Index]]
-# Content
+# Deployment Stamps Pattern
 
 This pattern involves creating multiple independent copies of your application, which are individually referred to as "stamps" or "scale units".  Each stamp operates independently and can serve a customer subset.
 

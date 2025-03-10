@@ -1,8 +1,5 @@
-11:42 | 2025-01-06
-# Links
-
-[[Software design patterns Master Index]]
-# Content
+[[Architecture Patterns Index]]
+# Template Method Pattern
 
 The Template Method is a behavioural design pattern that defines the basics of an algorithm in the superclass but lets subclasses override specific steps of the algorithm without changing it's structure.
 

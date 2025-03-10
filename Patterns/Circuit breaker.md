@@ -1,7 +1,5 @@
-# Links
-
-[[Architecture]] [[Architecture Patterns Index]]
-# Content
+[[Architecture Patterns Index]]
+# Circuit breaker
 
 ![[Pasted image 20240729100320.png]]
 

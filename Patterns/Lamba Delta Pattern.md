@@ -1,8 +1,5 @@
-15:09 | 2024-09-23
-# Links
-
-[[Architecture]] [[Architecture Patterns Index]]
-# Content
+ [[Architecture Patterns Index]]
+# Lamba Delta Pattern
 
 ### Overview
 

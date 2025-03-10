@@ -1,7 +1,5 @@
-# Links
-
-[[Architecture]] [[Architecture Patterns Index]]
-# Content
+ [[Architecture Patterns Index]]
+# Sharding
 
 This is a database Architecture pattern where a database is partitioned into smaller, more manageable parts called Shards. Sharding is particularly useful for managing large-scale databases, offering significant improvements in performance, maintainability, and scalability. 
 

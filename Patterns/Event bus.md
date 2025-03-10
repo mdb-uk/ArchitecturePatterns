@@ -1,7 +1,5 @@
-# Links
-
-[[Architecture]] [[Architecture Patterns Index]]
-# Content
+ [[Architecture Patterns Index]]
+# Event bus
 
 
 This pattern is closely related to the [[Pub-Sub]] pattern. It's a specialisation of that pattern where you have an orchestrator (the eponymous Event Bus) that distributes messages from publishers to subscribers so that the publishers and subscribers do not have to be aware of each other.

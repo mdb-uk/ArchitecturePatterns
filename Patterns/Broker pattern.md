@@ -1,7 +1,5 @@
-# Links
-
-[[Architecture]] [[Architecture Patterns Index]]
-# Content
+[[Architecture Patterns Index]]
+# Broker pattern
 
 This pattern is used in distributed software systems to identify and route traffic to an appropriate server.
 

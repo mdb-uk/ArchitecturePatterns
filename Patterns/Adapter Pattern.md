@@ -1,8 +1,6 @@
-14:55 | 2024-10-29
-# Links
 
-[[Software design patterns Master Index]]
-# Content
+[[Architecture Patterns Index]]
+# Adapter Pattern
 
 The Adapter pattern is a structural design pattern that allows objects with incompatible interfaces to communicate.
 

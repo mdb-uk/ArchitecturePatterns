@@ -1,8 +1,5 @@
-14:05 | 2025-02-26
-# Links
-
-[[Architecture Patterns Index]] [[AI]]
-# Content
+[[Architecture Patterns Index]] 
+# vLLM + Kubernetes architecture
 
 ![[Pasted image 20250226140530.png]]
 

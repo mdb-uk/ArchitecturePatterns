@@ -1,8 +1,5 @@
-14:33 | 2025-01-24
-# Links
-
 [[Architecture Patterns Index]]
-# Content
+# Retry Pattern
 
 The Retry pattern enables an application to handle transient failures by transparently retrying a failed operation.
 
