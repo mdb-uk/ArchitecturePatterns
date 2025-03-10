@@ -1,4 +1,4 @@
-Obsidian repo organised using the Zettelkasten method which details Architectural design patterns and Software Engineering patterns.
+Obsidian repo which details Architectural design patterns and Software Engineering patterns.
 
 The [[Architecture Patterns Index]] file should be opened first, and from there you can browse or use the tags to locate what you want. You can hover over pattern names in the Index to get a pop up preview of that pattern file.
 
