@@ -1,7 +1,7 @@
 15:15 | 2024-12-06
 # Links
 
-[[Architecture Patterns Master Index]]
+[[Architecture Patterns Index]]
 # Content
 
 This pattern is used in distributed systems to coordinate tasks among multiple instances by electing one instance as the 'leader'. The leader is responsible for managing and coordinating the actions of other instances.

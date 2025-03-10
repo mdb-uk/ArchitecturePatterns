@@ -1,6 +1,6 @@
 # Links
 
-[[Architecture]] [[Architecture Patterns Master Index]]
+[[Architecture]] [[Architecture Patterns Index]]
 # Content
 
 Used particularly in microservices to manage distributed transactions and ensure data consistency across multiple services.

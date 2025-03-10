@@ -1,7 +1,7 @@
 15:25 | 2024-11-05
 # Links
 
-[[Architecture Patterns Master Index]]
+[[Architecture Patterns Index]]
 # Content
 
 This is an architectural approach used to handle large messages in messaging systems.

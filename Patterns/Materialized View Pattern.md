@@ -1,7 +1,7 @@
 06:46 | 2024-12-13
 # Links
 
-[[Architecture Patterns Master Index]]
+[[Architecture Patterns Index]]
 # Content
 
 This is a design approach used to optimise data querying and retrieval.

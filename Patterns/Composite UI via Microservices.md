@@ -1,7 +1,7 @@
 11:23 | 2025-02-27
 # Links
 
-[[Architecture Patterns Master Index]]
+[[Architecture Patterns Index]]
 # Content
 
 ![[Pasted image 20250227112321.png]]

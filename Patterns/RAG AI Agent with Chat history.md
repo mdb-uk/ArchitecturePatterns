@@ -1,7 +1,7 @@
 08:26 | 2025-02-05
 # Links
 
-[[1 - Tags/AI]] [[Architecture Patterns Master Index]]
+[[1 - Tags/AI]] [[Architecture Patterns Index]]
 # Content
 
 https://www.youtube.com/watch?v=V_0dNE-H2gw&list=WL&index=11

@@ -1,7 +1,7 @@
 11:53 | 2024-10-28
 # Links
 
-[[Architecture Patterns Master Index]]
+[[Architecture Patterns Index]]
 # Content
 
 "The main purpose of the Ambassador Pattern is to reduce the complexity of communication between microservices."

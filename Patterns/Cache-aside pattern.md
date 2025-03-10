@@ -1,7 +1,7 @@
 14:35 | 2024-10-31
 # Links
 
-[[Architecture Patterns Master Index]]
+[[Architecture Patterns Index]]
 # Content
 
 This pattern is used to improve the performance and scalability of an application by loading data into the cache on demand.

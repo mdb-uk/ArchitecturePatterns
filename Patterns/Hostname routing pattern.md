@@ -1,7 +1,7 @@
 13:38 | 2025-01-31
 # Links
 
-[[Architecture Patterns Master Index]]
+[[Architecture Patterns Index]]
 # Content
 
 This pattern is a mechanism for isolating API services by giving each API it's own hostname, such as `service-a.api.example.com` or `service-a.example.com`.

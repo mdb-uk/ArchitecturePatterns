@@ -1,7 +1,7 @@
 12:01 | 2024-11-19
 # Links
 
-[[Architecture Patterns Master Index]] 
+[[Architecture Patterns Index]] 
 # Content
 
 This pattern delegates authentication to an external Identity Provider (IDP). This allows users to use a single identity across various applications.

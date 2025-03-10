@@ -1,7 +1,7 @@
 10:53 | 2024-09-30
 # Links
 
-[[Architecture]] [[Architecture Patterns Master Index]]
+[[Architecture]] [[Architecture Patterns Index]]
 # Content
 
 This design pattern separates an application into three interconnected components, the Model, the View and the Controller.

@@ -1,6 +1,6 @@
 # Links
 
-[[Architecture]] [[Architecture Patterns Master Index]]
+[[Architecture]] [[Architecture Patterns Index]]
 # Content
 
 Command Query Responsibility Segregation.

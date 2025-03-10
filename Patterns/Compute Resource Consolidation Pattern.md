@@ -1,7 +1,7 @@
 15:53 | 2024-11-12
 # Links
 
-[[Architecture Patterns Master Index]]
+[[Architecture Patterns Index]]
 # Content
 
 This pattern is a strategy used to optimise the use of compute resource in cloud environments.

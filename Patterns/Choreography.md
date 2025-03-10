@@ -1,6 +1,6 @@
 # Links
 
-[[Architecture]] [[Architecture Patterns Master Index]]
+[[Architecture]] [[Architecture Patterns Index]]
 # Content
 
 [Choreography pattern - Azure Architecture Center | Microsoft Learn](https://learn.microsoft.com/en-us/azure/architecture/patterns/choreography)

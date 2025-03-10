@@ -1,7 +1,7 @@
 07:57 | 2024-09-24
 # Links
 
-[[Architecture Patterns Master Index]] [[Architecture]]
+[[Architecture Patterns Index]] [[Architecture]]
 # Content
 
 This design approach  is used to distribute tasks and improve system performance and reliability.

@@ -1,6 +1,6 @@
 # Links
 
-[[Architecture]] [[Architecture Patterns Master Index]]
+[[Architecture]] [[Architecture Patterns Index]]
 # Content
 
 This pattern is used to manage and distribute tasks efficiently. It is also/formerly known as the Master-Slave pattern.

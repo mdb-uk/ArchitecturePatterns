@@ -1,6 +1,6 @@
 # Links
 
-[[Architecture]] [[Architecture Patterns Master Index]]
+[[Architecture]] [[Architecture Patterns Index]]
 # Content
 
 This pattern is designed to efficiently serve static content such as HTML pages, images, CSS/JavaScript files and documents by leveraging cloud based storage services.

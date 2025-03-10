@@ -1,7 +1,7 @@
 13:15 | 2025-01-29
 # Links
 
-[[Architecture Patterns Master Index]]
+[[Architecture Patterns Index]]
 # Content
 
 This pattern allows you to process a group of related messages in order. Multiple groups of messages can be processed simultaneously.

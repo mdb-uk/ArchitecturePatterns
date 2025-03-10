@@ -1,7 +1,7 @@
 08:26 | 2025-01-30
 # Links
 
-[[Architecture Patterns Master Index]]
+[[Architecture Patterns Index]]
 # Content
 
 This pattern, also known as the ports and adapters pattern, aims to create loosely coupled architectures where app components can be tested individually, with no dependencies on data stores or user interfaces.

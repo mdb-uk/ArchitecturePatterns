@@ -1,7 +1,7 @@
 11:22 | 2024-11-29
 # Links
 
-[[Architecture Patterns Master Index]]
+[[Architecture Patterns Index]]
 # Content
 
 This architecture involves deploying a collection of backend service into a set of geographical nodes, the geodes, each of which can service any request for any client in any region.

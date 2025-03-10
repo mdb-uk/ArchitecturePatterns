@@ -1,7 +1,7 @@
 14:41 | 2025-01-23
 # Links
 
-[[Architecture Patterns Master Index]]
+[[Architecture Patterns Index]]
 # Content
 
 This pattern involves controlling the rate at which a resource can be consumed, such as responses via an API.

@@ -1,7 +1,7 @@
 13:38 | 2025-01-29
 # Links
 
-[[Architecture Patterns Master Index]]
+[[Architecture Patterns Index]]
 # Content
 
 This pattern allows you to deploy the components of an application into a separate container or process in order to provide encapsulation and isolation.

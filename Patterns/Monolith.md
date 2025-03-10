@@ -1,7 +1,7 @@
 07:50 | 2024-09-30
 # Links
 
-[[Architecture]] [[Architecture Patterns Master Index]]
+[[Architecture]] [[Architecture Patterns Index]]
 # Content
 
 Traditional design pattern where all the components of an application are integrated into a single, unified system. This includes all layers of the app (UI, business logic, data access etc) are developed, deployed and maintained as one indivisible unit. Typically would also use a single database for all data storage needs.

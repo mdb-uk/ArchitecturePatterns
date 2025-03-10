@@ -1,7 +1,7 @@
 13:23 | 2025-02-05
 # Links
 
-[[Architecture Patterns Master Index]]
+[[Architecture Patterns Index]]
 # Content
 
 Header based routing allows you to target the right service for each request by specifying an HTTP header. The path of the request is still important, but the header allows further routing options.

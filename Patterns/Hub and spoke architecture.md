@@ -1,7 +1,7 @@
 15:47 | 2025-02-11
 # Links
 
-[[Architecture Patterns Master Index]]
+[[Architecture Patterns Index]]
 # Content
 
 This network topology involves a central network/VNET (the Hub) and other ones all connected to the central (the Spokes).

@@ -1,7 +1,7 @@
 12:05 | 2024-09-27
 # Links
 
-[[Architecture]] [[Architecture Patterns Master Index]]
+[[Architecture]] [[Architecture Patterns Index]]
 # Content
 
 This pattern separates the core functionality of a system from it's extended functionalities. 

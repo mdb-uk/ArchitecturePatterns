@@ -1,7 +1,7 @@
 11:34 | 2024-11-11
 # Links
 
-[[Architecture Patterns Master Index]]
+[[Architecture Patterns Index]]
 # Content
 
 This pattern is designed to handle high volumes of requests by distributing them across multiple concurrent (identical) consumers to optimise throughput, improve scalability and availability and balance the workload.

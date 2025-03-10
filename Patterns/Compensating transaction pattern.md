@@ -1,7 +1,7 @@
 16:29 | 2024-11-08
 # Links
 
-[[Architecture Patterns Master Index]]
+[[Architecture Patterns Index]]
 # Content
 
 This pattern is used to maintain data consistency in distributed systems, especially when dealing with eventual consistency.

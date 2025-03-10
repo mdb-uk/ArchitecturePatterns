@@ -1,7 +1,7 @@
 09:26 | 2024-10-23
 # Links
 
-[[Architecture Patterns Master Index]]
+[[Architecture Patterns Index]]
 # Content
 
 This pattern emphasises reuse or components and the separation of concerns. It involves building a system into smaller, manageable parts called Components. Each component encapsulates specific functionality and can be developed, tested and maintained independently. 

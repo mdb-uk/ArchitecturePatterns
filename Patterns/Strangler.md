@@ -1,6 +1,6 @@
 # Links
 
-[[Architecture]] [[Architecture Patterns Master Index]]
+[[Architecture]] [[Architecture Patterns Index]]
 # Content
 
 The Strangler pattern, also known as the Strangler fig pattern, incrementally migrates a legacy system to a new system.

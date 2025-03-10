@@ -1,7 +1,7 @@
 11:25 | 2024-10-28
 # Links
 
-[[Architecture Patterns Master Index]]
+[[Architecture Patterns Index]]
 # Content
 
 This pattern allows services to communicate over a network.

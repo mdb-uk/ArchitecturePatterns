@@ -1,7 +1,7 @@
 07:49 | 2025-02-06
 # Links
 
-[[Architecture Patterns Master Index]]
+[[Architecture Patterns Index]]
 # Content
 
 **Polyglot persistence** is using multiple data storage technologies within a single system, in order to meet varying data storage needs. Such a system may consist of multiple applications, or it may be a single application with smaller components.

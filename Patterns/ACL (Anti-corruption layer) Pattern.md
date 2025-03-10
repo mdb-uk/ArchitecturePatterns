@@ -1,7 +1,7 @@
 14:51 | 2024-10-29
 # Links
 
-[[Architecture Patterns Master Index]]
+[[Architecture Patterns Index]]
 # Content
 
 

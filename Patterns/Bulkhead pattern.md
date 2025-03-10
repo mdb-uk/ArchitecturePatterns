@@ -1,7 +1,7 @@
 14:14 | 2024-10-31
 # Links
 
-[[Architecture Patterns Master Index]]
+[[Architecture Patterns Index]]
 # Content
 
 This pattern is intended to improve the resilience and reliability of an application by isolating components or services into different units, or 'bulkheads'. The name comes from the isolated compartments in a Ship's hull designed to stop it from sinking.

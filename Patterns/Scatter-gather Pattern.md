@@ -1,7 +1,7 @@
 13:35 | 2025-02-05
 # Links
 
-[[Architecture Patterns Master Index]]
+[[Architecture Patterns Index]]
 # Content
 
 This is a message-routing pattern that involves broadcasting similar or related requests to multiple recipients and aggregating their responses back into a single message via an aggregator.

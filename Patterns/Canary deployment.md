@@ -1,7 +1,7 @@
 09:30 | 2025-01-31
 # Links
 
-[[DevOps]] [[Architecture Patterns Master Index]]
+[[DevOps]] [[Architecture Patterns Index]]
 # Content
 
 Rolling a change out to a small subset of users to minimise the chances of any issues.

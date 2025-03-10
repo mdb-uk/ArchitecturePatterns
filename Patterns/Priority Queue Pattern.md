@@ -1,7 +1,7 @@
 14:44 | 2025-01-06
 # Links
 
-[[Architecture Patterns Master Index]]
+[[Architecture Patterns Index]]
 # Content
 
 This pattern enables a workload to prioritise certain tasks and have them dealt with before lower priority tasks.

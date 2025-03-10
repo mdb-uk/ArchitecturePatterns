@@ -1,7 +1,7 @@
 15:16 | 2024-11-18
 # Links
 
-[[Architecture Patterns Master Index]]
+[[Architecture Patterns Index]]
 # Content
 
 This pattern is used to manage and configure workloads at the edge of a network, such as IoT devices or edge servers.

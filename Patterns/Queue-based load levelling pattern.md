@@ -1,7 +1,7 @@
 12:08 | 2025-01-14
 # Links
 
-[[Architecture Patterns Master Index]]
+[[Architecture Patterns Index]]
 # Content
 
 This pattern uses a queue as a buffer between the client and the service it invokes. This smooths intermittent heavy loads. This can prevent the service being overwhelmed by the intermittent spikes.

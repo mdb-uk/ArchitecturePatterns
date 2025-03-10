@@ -2,7 +2,7 @@
 08:12 | 2025-03-07
 # Links
 
-[[AI]] [[Architecture Patterns Master Index]]
+[[AI]] [[Architecture Patterns Index]]
 # Content
 
 Multiple Agents with specialised roles working together. 
