@@ -1,4 +1,4 @@
-[[Architecture Patterns Index]]
+[[Architecture Patterns Index]] #AI #Agent #RAG
 # RAG AI Agent with Chat history
 
 https://www.youtube.com/watch?v=V_0dNE-H2gw&list=WL&index=11

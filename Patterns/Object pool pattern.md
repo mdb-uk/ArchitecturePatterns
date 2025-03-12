@@ -1,4 +1,4 @@
-[[Architecture Patterns Index]]
+[[Architecture Patterns Index]] #SoftwareEngineering #Creational
 # Object pool pattern
 
 This is a creational design patter that managed a pool of reusable objects to minimize the overhead of creating and destroying objects.

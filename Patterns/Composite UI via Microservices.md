@@ -1,4 +1,4 @@
-[[Architecture Patterns Index]]
+[[Architecture Patterns Index]] #Decoupling #Microservices
 # Composite UI via Microservices
 
 ![[Pasted image 20250227112321.png]]

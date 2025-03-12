@@ -1,4 +1,4 @@
-[[Architecture Patterns Index]]
+[[Architecture Patterns Index]] #Routing
 # Gateway Aggregator Pattern
 
 ### Overview

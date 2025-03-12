@@ -1,4 +1,4 @@
-[[Architecture Patterns Index]]
+[[Architecture Patterns Index]] #Decoupling #Microservices
 # Blackboard pattern
 
 This is a problem solving approach that uses a modular and decentralised framework.

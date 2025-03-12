@@ -1,4 +1,4 @@
-[[Architecture Patterns Index]]
+[[Architecture Patterns Index]] #SoftwareEngineering #Creational
 # Singleton
 
 Creational design pattern that lets you enforce a single instance of a class while providing a global access point to this instance.

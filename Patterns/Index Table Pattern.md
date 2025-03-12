@@ -1,4 +1,4 @@
-[[Architecture Patterns Index]]
+[[Architecture Patterns Index]] #Data #Datastorage
 # Index Table Pattern
 
 This pattern is used to improve query performance in data stores, particularly when the data store doesn't support secondary indexes. The pattern creates indexes to cover fields that are often queried.

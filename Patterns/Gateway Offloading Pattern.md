@@ -1,4 +1,4 @@
-[[Architecture Patterns Index]]
+[[Architecture Patterns Index]] #Reuse #Decoupling
 # Gateway Offloading Pattern
 
 This pattern involved offloading shared or specialised service functionality to a centralised gateway proxy.

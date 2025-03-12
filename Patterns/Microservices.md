@@ -1,4 +1,4 @@
-[[Architecture Patterns Index]]
+[[Architecture Patterns Index]] #Microservices #Decoupling #Decentralisation
 # Microservices
 
 This pattern is an approach where an application is structured as a collection of small autonomous services. Each of these is self-contained and focuses on specific business capability within a bounded context.

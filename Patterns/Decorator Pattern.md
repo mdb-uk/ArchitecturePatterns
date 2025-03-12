@@ -1,4 +1,4 @@
-[[Architecture Patterns Index]]
+[[Architecture Patterns Index]] #SoftwareEngineering #Structural
 # Decorator Pattern
 
 This is a structural design pattern that lets you attach new behaviours to objects by placing them inside special wrapper objects which contain the desired new behaviours.

@@ -1,4 +1,4 @@
- [[Architecture Patterns Index]]
+ [[Architecture Patterns Index]] #Concurrency
 # Controller-Responder
 
 This pattern is used to manage and distribute tasks efficiently. It is also/formerly known as the Master-Slave pattern.

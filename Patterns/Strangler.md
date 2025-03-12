@@ -1,4 +1,4 @@
- [[Architecture Patterns Index]]
+ [[Architecture Patterns Index]] #Routing #ApplicationArchitecture
 # Strangler
 
 The Strangler pattern, also known as the Strangler fig pattern, incrementally migrates a legacy system to a new system.

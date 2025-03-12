@@ -1,5 +1,5 @@
- [[Architecture Patterns Index]]
-# SOA
+ [[Architecture Patterns Index]] #Decoupling #ApplicationArchitecture
+# SOA 
 
 
 [Service-Oriented Architecture (SOA) is an architectural style in software engineering that focuses on organizing software systems as a collection of services](https://medium.com/cloud-native-daily/system-design-patterns-service-oriented-architecture-151d6354a21)[1](https://medium.com/cloud-native-daily/system-design-patterns-service-oriented-architecture-151d6354a21). Here are some key points about SOA:

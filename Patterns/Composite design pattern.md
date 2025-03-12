@@ -1,4 +1,4 @@
-[[Architecture Patterns Index]]
+[[Architecture Patterns Index]] #SoftwareEngineering #Structural
 # Composite design pattern
 
 This is a **Structural** design pattern that lets you compose objects into tree structures and then work with these structures as if they were individual objects.

@@ -1,4 +1,4 @@
- [[Architecture Patterns Index]]
+ [[Architecture Patterns Index]] #Virtualisation
 # Hyper Converged Infrastructure (HCI)
 
 The core idea behind Hyper Converged Infrastructure (HCI) is to virtualize the physical infrastructure. This means that instead of relying on separate hardware components for computing, storage, and networking, HCI integrates these elements into a single, software-defined system. This virtualization allows for more efficient resource management, easier scalability, and often lower costs compared to traditional hardware-defined systems.

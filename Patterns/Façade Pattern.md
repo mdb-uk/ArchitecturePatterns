@@ -1,4 +1,4 @@
-[[Architecture Patterns Index]]
+[[Architecture Patterns Index]] #SoftwareEngineering #Structural
 # Façade Pattern
 
 This structural pattern involves a class or component sat in front of another and providing a simplified interface to the other component.

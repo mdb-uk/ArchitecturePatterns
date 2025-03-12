@@ -1,5 +1,5 @@
 
-[[Architecture Patterns Index]]
+[[Architecture Patterns Index]] #SoftwareEngineering #Creational
 # Abstract Factory Pattern
 
 This is a Creational design pattern that lets you create families of related objects without specifying their concrete class.

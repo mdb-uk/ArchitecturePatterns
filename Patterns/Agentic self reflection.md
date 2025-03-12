@@ -1,4 +1,4 @@
-[[Architecture Patterns Index]]
+[[Architecture Patterns Index]] #AI #Agent
 # Agentic self reflection
 
 Allows agents to review their own output and refine it further. 

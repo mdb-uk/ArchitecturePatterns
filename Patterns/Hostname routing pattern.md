@@ -1,4 +1,4 @@
-[[Architecture Patterns Index]]
+[[Architecture Patterns Index]] #Routing #API
 # Hostname routing pattern
 
 This pattern is a mechanism for isolating API services by giving each API it's own hostname, such as `service-a.api.example.com` or `service-a.example.com`.

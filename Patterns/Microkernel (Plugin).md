@@ -1,4 +1,4 @@
-[[Architecture Patterns Index]]
+[[Architecture Patterns Index]] #Decoupling
 # Microkernel (Plugin)
 
 This pattern separates the core functionality of a system from it's extended functionalities. 

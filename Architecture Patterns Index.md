@@ -35,6 +35,7 @@
 | [[CQRS]]                                      | #EventDriven #Decoupling                        |
 | [[Decorator Pattern]]                         | #SoftwareEngineering #Structural                |
 | [[Deployment Stamps Pattern]]                 | #Scalability #Containers #HADR #Resilience      |
+| [[Distributed Monolith]]                      | #Antipattern                                    |
 | [[Edge Workload Configuration Pattern]]       | #EdgeComputing                                  |
 | [[Ensemble Architecture]]                     | #AI                                             |
 | [[Event bus]]                                 | #EventDriven #Communication                     |

@@ -1,4 +1,4 @@
-[[Architecture Patterns Index]]
+[[Architecture Patterns Index]] #EventDriven
 # Event Driven Architecture (EDA)
 
 

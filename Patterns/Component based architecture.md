@@ -1,4 +1,4 @@
-[[Architecture Patterns Index]]
+[[Architecture Patterns Index]] #Decoupling #Microservices
 # Component based architecture
 
 This pattern emphasises reuse or components and the separation of concerns. It involves building a system into smaller, manageable parts called Components. Each component encapsulates specific functionality and can be developed, tested and maintained independently. 

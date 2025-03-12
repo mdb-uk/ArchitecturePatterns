@@ -1,4 +1,4 @@
-[[Architecture Patterns Index]]
+[[Architecture Patterns Index]] #API
 # API Gateway
 
 This pattern involves a service that acts as a reverse proxy between clients and services behind the gateway.

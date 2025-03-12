@@ -1,4 +1,4 @@
-[[Architecture Patterns Index]]
+[[Architecture Patterns Index]] #DataStructure #Performance
 # Materialized View Pattern
 
 This is a design approach used to optimise data querying and retrieval.

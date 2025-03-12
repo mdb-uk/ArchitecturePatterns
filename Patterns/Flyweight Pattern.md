@@ -1,4 +1,4 @@
-[[Architecture Patterns Index]]
+[[Architecture Patterns Index]] #SoftwareEngineering #Behavioural
 # Flyweight Pattern
 
 This is a structural design pattern that lets you save memory by keeping certain parts of the state shared between objects.

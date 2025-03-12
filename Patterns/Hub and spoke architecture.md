@@ -1,4 +1,4 @@
-[[Architecture Patterns Index]]
+[[Architecture Patterns Index]] #Routing
 # Hub and spoke architecture
 
 This network topology involves a central network/VNET (the Hub) and other ones all connected to the central (the Spokes).

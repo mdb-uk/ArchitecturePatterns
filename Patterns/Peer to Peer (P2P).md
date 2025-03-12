@@ -1,4 +1,4 @@
- [[Architecture Patterns Index]]
+ [[Architecture Patterns Index]] #Decentralisation #ApplicationArchitecture
 # Peer to Peer (P2P)
 
 Decentralised computing modal where each node, or "peer", acts as both a client and a server. Every node in the network can both request and provide services, enabling direct resource sharing without relying on a central server.

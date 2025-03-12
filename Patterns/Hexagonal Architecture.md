@@ -1,4 +1,4 @@
-[[Architecture Patterns Index]]
+[[Architecture Patterns Index]] #Decoupling #Polyglot
 # Hexagonal Architecture
 
 This pattern, also known as the ports and adapters pattern, aims to create loosely coupled architectures where app components can be tested individually, with no dependencies on data stores or user interfaces.

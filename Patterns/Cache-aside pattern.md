@@ -1,4 +1,4 @@
-[[Architecture Patterns Index]]
+[[Architecture Patterns Index]] #Performance #Scalability #Caching
 # Cache-aside pattern
 
 This pattern is used to improve the performance and scalability of an application by loading data into the cache on demand.

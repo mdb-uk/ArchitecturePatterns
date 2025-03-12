@@ -1,4 +1,4 @@
-[[Architecture Patterns Index]]
+[[Architecture Patterns Index]] #DevOps #SoftwareEngineering
 # Pipeline Architecture
 
 This pattern is commonly used in big data processing and software engineering. There are a series of data processing steps where each step performs it's task and then passes information on to the next step.

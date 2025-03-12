@@ -1,4 +1,4 @@
-[[Architecture Patterns Index]]
+[[Architecture Patterns Index]] #Prioritisation #Communication
 # Priority Queue Pattern
 
 This pattern enables a workload to prioritise certain tasks and have them dealt with before lower priority tasks.

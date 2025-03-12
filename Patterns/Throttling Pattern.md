@@ -1,4 +1,4 @@
-[[Architecture Patterns Index]]
+[[Architecture Patterns Index]] #API #Cybersecurity
 # Throttling Pattern
 
 This pattern involves controlling the rate at which a resource can be consumed, such as responses via an API.

@@ -1,4 +1,4 @@
- [[Architecture Patterns Index]]
+ [[Architecture Patterns Index]] #Decoupling #ApplicationArchitecture
 # Layered (n-tier)
 
 https://www.oreilly.com/library/view/software-architecture-patterns/9781491971437/ch01.html

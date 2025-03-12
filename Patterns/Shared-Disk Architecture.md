@@ -1,4 +1,4 @@
- [[Architecture Patterns Index]]
+ [[Architecture Patterns Index]] #DistributedSystems #Resilience
 # Shared-Disk Architecture
 
 [[Shared-Nothing Architecture]]

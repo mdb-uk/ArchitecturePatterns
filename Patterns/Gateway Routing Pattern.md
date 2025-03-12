@@ -1,4 +1,4 @@
-[[Architecture Patterns Index]]
+[[Architecture Patterns Index]] #Routing #Microservices
 # Gateway Routing Pattern
 
 This pattern allows you to handle requests via a Gateway and then route it to one of many possible options based on the request itself.

@@ -1,4 +1,4 @@
- [[Architecture Patterns Index]]
+ [[Architecture Patterns Index]] #DistributedSystems #Resilience
 # Shared-Nothing Architecture
 
 Shared nothing architecture is an architecture that is used in distributed computing in which each node is independent and different nodes are interconnected by a network. Every node is made of a processor, main memory, and disk. The main motive of this architecture is to remove the contention among nodes. Here the Nodes do not share memory or storage. The disks have individual nodes which cannot be shared. It works effectively in a high volume and read-write environment.

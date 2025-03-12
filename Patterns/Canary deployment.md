@@ -1,4 +1,4 @@
-[[Architecture Patterns Index]]
+[[Architecture Patterns Index]] #Testing #Deployment
 # Canary deployment
 
 Rolling a change out to a small subset of users to minimise the chances of any issues.

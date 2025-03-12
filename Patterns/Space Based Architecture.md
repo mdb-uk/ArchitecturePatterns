@@ -1,4 +1,4 @@
-[[Architecture Patterns Index]]
+[[Architecture Patterns Index]] #Decoupling #SoftwareEngineering #Microservices
 # Space Based Architecture
 
 

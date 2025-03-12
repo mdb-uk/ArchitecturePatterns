@@ -1,4 +1,4 @@
-[[Architecture Patterns Index]]
+[[Architecture Patterns Index]] #SoftwareEngineering #Behavioural
 # Memento Pattern
 
 The Memento pattern is a behavioural design pattern that lets you save and restore the previous state of an object without revealing the details of it's implementation.

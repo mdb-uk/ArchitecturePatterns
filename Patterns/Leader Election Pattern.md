@@ -1,4 +1,4 @@
-[[Architecture Patterns Index]]
+[[Architecture Patterns Index]] #Resilience #Decentralisation
 # Leader Election Pattern
 
 This pattern is used in distributed systems to coordinate tasks among multiple instances by electing one instance as the 'leader'. The leader is responsible for managing and coordinating the actions of other instances.

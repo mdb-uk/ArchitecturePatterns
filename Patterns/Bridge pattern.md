@@ -1,4 +1,4 @@
-[[Architecture Patterns Index]]
+[[Architecture Patterns Index]] #SoftwareEngineering #Structural
 # Bridge pattern
 
 This pattern uses composition instead of inheritance to allow the implementation of a class to vary from the abstraction of it.

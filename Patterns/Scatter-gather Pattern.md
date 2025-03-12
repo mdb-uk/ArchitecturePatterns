@@ -1,4 +1,4 @@
-[[Architecture Patterns Index]]
+[[Architecture Patterns Index]] #EventDriven #Communication #Decoupling
 # Scatter-gather Pattern
 
 This is a message-routing pattern that involves broadcasting similar or related requests to multiple recipients and aggregating their responses back into a single message via an aggregator.

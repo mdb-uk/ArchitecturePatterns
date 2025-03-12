@@ -1,4 +1,4 @@
-[[Architecture Patterns Index]]
+[[Architecture Patterns Index]] #SoftwareEngineering #Behavioural
 # Visitor Pattern
 
 The Visitor design pattern is a behavioural pattern that lets you separate algorithms from the objects on which they operate.

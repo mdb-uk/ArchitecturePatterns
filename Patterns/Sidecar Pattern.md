@@ -1,4 +1,4 @@
-[[Architecture Patterns Index]]
+[[Architecture Patterns Index]] #Containers
 # Sidecar Pattern
 
 This pattern allows you to deploy the components of an application into a separate container or process in order to provide encapsulation and isolation.

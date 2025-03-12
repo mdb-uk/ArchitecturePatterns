@@ -1,4 +1,4 @@
-[[Architecture Patterns Index]]
+[[Architecture Patterns Index]] #ErrorHandling
 # Retry Pattern
 
 The Retry pattern enables an application to handle transient failures by transparently retrying a failed operation.

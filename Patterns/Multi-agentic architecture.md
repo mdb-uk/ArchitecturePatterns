@@ -1,4 +1,4 @@
-[[Architecture Patterns Index]]
+[[Architecture Patterns Index]] #AI #Agent
 # Multi-agentic architecture
 
 Multiple Agents with specialised roles working together. 

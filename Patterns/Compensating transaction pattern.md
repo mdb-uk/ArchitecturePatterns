@@ -1,4 +1,4 @@
-[[Architecture Patterns Index]]
+[[Architecture Patterns Index]] #DistributedSystems #Data
 # Compensating transaction pattern
 
 This pattern is used to maintain data consistency in distributed systems, especially when dealing with eventual consistency.

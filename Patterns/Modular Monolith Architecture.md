@@ -1,7 +1,7 @@
 14:49 | 2025-01-30
 # Links
 
-[[Architecture Patterns Index]]
+[[Architecture Patterns Index]] #ApplicationArchitecture #Decoupling
 # Content
 
 This pattern is like a halfway house between a [[Monolith]] and [[Microservices]] architectures. You still have one application deployed as a whole at an infrastructure level, but within the app it's broken down into loosely coupled and independent code modules;

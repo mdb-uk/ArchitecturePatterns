@@ -1,4 +1,4 @@
-[[Architecture Patterns Index]]
+[[Architecture Patterns Index]] #Communication #Concurrency
 # Competing Consumers Pattern
 
 This pattern is designed to handle high volumes of requests by distributing them across multiple concurrent (identical) consumers to optimise throughput, improve scalability and availability and balance the workload.

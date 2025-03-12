@@ -1,4 +1,4 @@
-[[Architecture Patterns Index]]
+[[Architecture Patterns Index]] #DistributedSystems #Microservices
 # Saga Pattern
 
 Used particularly in microservices to manage distributed transactions and ensure data consistency across multiple services.

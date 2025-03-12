@@ -1,4 +1,4 @@
- [[Architecture Patterns Index]]
+ [[Architecture Patterns Index]] #EventDriven #Data
 # Event Sourcing
 
 This pattern is a way of handling data operations. Rather than just maintaining the current state of data, it keeps a full record (append-only) of all events that have occurred.

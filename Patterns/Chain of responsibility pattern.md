@@ -1,4 +1,4 @@
-[[Architecture Patterns Index]]
+[[Architecture Patterns Index]] #SoftwareEngineering #Behavioural
 # Chain of responsibility pattern
 
 This is a behavioural design pattern that allows you to pass requests along a chain of handlers. Each handler makes the decision to either process it itself, or pass it along to the next handler in the chain.

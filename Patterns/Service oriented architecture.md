@@ -1,4 +1,4 @@
-[[Architecture Patterns Index]]
+[[Architecture Patterns Index]] #ApplicationArchitecture #Decoupling
 # Service oriented architecture
 
 This pattern allows services to communicate over a network.

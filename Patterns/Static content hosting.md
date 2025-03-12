@@ -1,4 +1,4 @@
-[[Architecture Patterns Index]]
+[[Architecture Patterns Index]] #Hosting
 # Static content hosting
 
 This pattern is designed to efficiently serve static content such as HTML pages, images, CSS/JavaScript files and documents by leveraging cloud based storage services.

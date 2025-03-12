@@ -1,4 +1,4 @@
-[[Architecture Patterns Index]]
+[[Architecture Patterns Index]] #Decoupling #Datastorage
 # External Configuration Store pattern
 
 This pattern involves moving configuration out of the application code / deployment package entirely and storing it in a centralised location (such as Azure Configuration Manager).

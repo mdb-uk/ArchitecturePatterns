@@ -1,4 +1,4 @@
-[[Architecture Patterns Index]]
+[[Architecture Patterns Index]] #SoftwareEngineering #Behavioural
 # Mediator Pattern
 
 The mediator pattern lets you reduce and simplify dependencies between objects.

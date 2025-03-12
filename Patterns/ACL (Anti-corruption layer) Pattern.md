@@ -1,4 +1,4 @@
-[[Architecture Patterns Index]]
+[[Architecture Patterns Index]] #Cybersecurity
 # ACL (Anti-corruption layer) Pattern
 
 

@@ -1,4 +1,4 @@
-[[Architecture Patterns Index]] 
+[[Architecture Patterns Index]]  #AI
 # vLLM + Kubernetes architecture
 
 ![[Pasted image 20250226140530.png]]

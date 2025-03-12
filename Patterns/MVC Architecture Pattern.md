@@ -1,4 +1,4 @@
-[[Architecture Patterns Index]]
+[[Architecture Patterns Index]] #ApplicationArchitecture #Decoupling
 # MVC Architecture Pattern
 
 This design pattern separates an application into three interconnected components, the Model, the View and the Controller.

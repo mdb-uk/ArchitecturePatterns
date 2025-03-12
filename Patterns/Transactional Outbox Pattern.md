@@ -1,4 +1,4 @@
-[[Architecture Patterns Index]]
+[[Architecture Patterns Index]] #EventDriven #DistributedSystems #Transactional
 # Transactional Outbox Pattern
 
 This pattern aims to solve the dual write operations issue that occurs in distributed systems when a single operation involves a datastore write operation and a message or event notification to other systems (which may perform processing off the back of it). If either of these operations in the dual write, then the system might be left in an inconsistent state.

@@ -1,4 +1,4 @@
-[[Architecture Patterns Index]]
+[[Architecture Patterns Index]] #EventDriven #Decoupling
 # CQRS
 
 Command Query Responsibility Segregation.

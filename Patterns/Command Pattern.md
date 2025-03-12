@@ -1,4 +1,4 @@
-[[Architecture Patterns Index]]
+[[Architecture Patterns Index]] #Decoupling #ApplicationArchitecture
 # Command Pattern
 
 This is a behavioural design pattern that turns a request into a stand alone object that contains all information about that request. You can then process the command at a convenient time, pass method arguments with it, queue it, and support rollback operations.

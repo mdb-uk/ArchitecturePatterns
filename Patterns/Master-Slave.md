@@ -1,4 +1,4 @@
-[[Architecture Patterns Index]]
+[[Architecture Patterns Index]] #Decoupling #Resilience
 # Master-Slave
 
 This design approach  is used to distribute tasks and improve system performance and reliability.

@@ -1,4 +1,4 @@
-[[Architecture Patterns Index]]
+[[Architecture Patterns Index]] #ErrorHandling #Resilience
 # Circuit breaker
 
 ![[Pasted image 20240729100320.png]]

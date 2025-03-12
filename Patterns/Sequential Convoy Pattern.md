@@ -1,4 +1,4 @@
-[[Architecture Patterns Index]]
+[[Architecture Patterns Index]] #Communication #DistributedSystems
 # Sequential Convoy Pattern
 
 This pattern allows you to process a group of related messages in order. Multiple groups of messages can be processed simultaneously.

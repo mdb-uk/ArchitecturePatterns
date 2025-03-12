@@ -1,4 +1,4 @@
-[[Architecture Patterns Index]]
+[[Architecture Patterns Index]] #SoftwareEngineering #Structural
 # Proxy Pattern
 
 This is a structural design pattern that lets you provide a substitute or placeholder for another object. The eponymous Proxy then controls access to the original object, allowing custom behaviour to be executed before and/or after the request gets routed to the original object.

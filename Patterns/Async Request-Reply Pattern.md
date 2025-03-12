@@ -1,4 +1,4 @@
-[[Architecture Patterns Index]]
+[[Architecture Patterns Index]] #Communication #Async #LegacyIntegration
 # Async Request-Reply Pattern
 
 Used often in cloud and distributed systems, this pattern is a communication strategy which allows a client to send a request to a service without waiting for an immediate response. The client carries on with other tasks and the server sends a response in due course.

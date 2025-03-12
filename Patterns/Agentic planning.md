@@ -1,4 +1,4 @@
-[[Architecture Patterns Index]]
+[[Architecture Patterns Index]] #AI #Agent
 # Agentic planning
 
 Allows agents to create plans and strategies for dealing with tasks and problems.

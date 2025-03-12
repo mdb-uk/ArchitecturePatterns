@@ -1,4 +1,4 @@
-[[Architecture Patterns Index]]
+[[Architecture Patterns Index]] #Resilience
 # Bulkhead pattern
 
 This pattern is intended to improve the resilience and reliability of an application by isolating components or services into different units, or 'bulkheads'. The name comes from the isolated compartments in a Ship's hull designed to stop it from sinking.

@@ -1,4 +1,4 @@
-[[Architecture Patterns Index]]
+[[Architecture Patterns Index]] #SoftwareEngineering #Behavioural
 # Strategy Pattern
 
 The Strategy Pattern is a behavioural design pattern that lets you define a related family of algorithms, put each into a separate class, and make their objects interchangeable.

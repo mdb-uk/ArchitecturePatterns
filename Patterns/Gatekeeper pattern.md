@@ -1,4 +1,4 @@
-[[Architecture Patterns Index]]
+[[Architecture Patterns Index]] #Cybersecurity #Decoupling
 # Gatekeeper pattern
 
 ### Overview

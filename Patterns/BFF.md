@@ -1,4 +1,4 @@
-[[Architecture Patterns Index]]
+[[Architecture Patterns Index]] #Decoupling #Composition #Microservices
 # BFF (Backends For Frontends)
 
 

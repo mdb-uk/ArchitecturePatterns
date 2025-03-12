@@ -1,4 +1,4 @@
-[[Architecture Patterns Index]]
+[[Architecture Patterns Index]] #SoftwareEngineering
 # Onion Architecture
 
 The Onion Architecture is a way of architecting an application from a code perspective.

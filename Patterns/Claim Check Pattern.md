@@ -1,4 +1,4 @@
-[[Architecture Patterns Index]]
+[[Architecture Patterns Index]] #Communication
 # Claim Check Pattern
 
 This is an architectural approach used to handle large messages in messaging systems.

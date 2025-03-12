@@ -1,4 +1,4 @@
-[[Architecture Patterns Index]]
+[[Architecture Patterns Index]] #SoftwareEngineering #Behavioural
 # State Pattern
 
 The State Pattern is a behavioural design pattern that lets an object alter it's behaviour when it's internal state changes. It appears to the outside world as if the object has changed it's Class.

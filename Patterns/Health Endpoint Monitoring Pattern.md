@@ -1,4 +1,4 @@
-[[Architecture Patterns Index]]
+[[Architecture Patterns Index]] #Resilience
 # Health Endpoint Monitoring Pattern
 
 This pattern is designed to make sure that apps are performing as they should by implementing functional checks that are accessed through specific endpoints (such as "/health") at regular intervals. An http response code will generally indicate the result of the check (200 == OK, 500 == Internal server error etc)
