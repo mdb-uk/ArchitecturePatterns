@@ -1,5 +1,3 @@
-# Links
-
 [[Architecture Patterns Index]] #SaaS #ApplicationArchitecture
 # 12 Factor App
 
