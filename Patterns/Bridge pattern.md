@@ -22,5 +22,6 @@ Structure
 - ConcreteImplementor - Implements the `Implementor` interface and provides concrete functionality
 
 
-References
+### References
+
 [Bridge](https://refactoring.guru/design-patterns/bridge)

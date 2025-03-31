@@ -8,3 +8,7 @@ Creational design pattern. Lets you construct complex objects step by step. Allo
 ![[Pasted image 20241004090024.png]]
 
 ![[Pasted image 20241004090029.png]]
+
+### References
+
+[Builder](https://refactoring.guru/design-patterns/builder)

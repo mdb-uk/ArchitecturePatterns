@@ -18,3 +18,7 @@ A message queue is a form of describing a data structure to hold messages for ev
 In simple words a message queue is a queue like data structure first-in-first-out (FIFO). A message broker is more like service bus; an object that is used to route traffic while allowing to decouple the system into smaller parts.
 
 ![[Pasted image 20240729100231.png]]
+
+### References
+
+[Broker Pattern | GeeksforGeeks](https://www.geeksforgeeks.org/broker-pattern/)

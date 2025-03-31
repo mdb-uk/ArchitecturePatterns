@@ -26,7 +26,7 @@ Challenges
 - Latency
 - Synchronisation and consistency
 
-References
+### References
 
 https://learn.microsoft.com/en-us/azure/architecture/patterns/bulkhead
 [Bulkhead Pattern - GeeksforGeeks](https://www.geeksforgeeks.org/bulkhead-pattern/)
