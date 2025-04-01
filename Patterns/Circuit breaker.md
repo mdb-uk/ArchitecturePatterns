@@ -14,3 +14,9 @@ An intermediary service (the "circuit breaker") is placed between a calling serv
 
 - Testing can be harder than it appears. More is required than simply having the circuit breaker close down access to a particular service. A variety of failure responses need to be in force and these responses need to be tested.
 - Circuits are difficult to do as a one-off. They require an infrastructure management technology such as a service mesh that can manage the switching on and off.
+
+### References
+
+https://www.geeksforgeeks.org/what-is-circuit-breaker-pattern-in-microservices/
+
+https://learn.microsoft.com/en-us/dotnet/architecture/microservices/implement-resilient-applications/implement-circuit-breaker-pattern

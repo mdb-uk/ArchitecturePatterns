@@ -12,3 +12,7 @@ Determining the total price of a complex order using traditional methods could b
 The composite pattern helps with this problem by defining a common interface which in the above example exposes a method for calculating the price of the item. If the item was a parent of sub items it would include all their prices (i.e. passing the request down the tree). You could then easily tally up these costs for all sub items to get the total. The big benefit of this approach is you do not need to know or care about the concrete classes of the objects that make up the 'tree', they can all be treated the same via the interface they all implement.
 
 ![[Pasted image 20241105155732.png]]
+
+### References
+
+[Composite](https://refactoring.guru/design-patterns/composite)

@@ -14,3 +14,7 @@ Considerations
 - Complexity - allowing edits when disconnected from the cloud increases complexity (particularly with auth and conflict resolution)
 - Network constraints in edge environments - these constraints need to be managed carefully
 - Configuration management - it's important to track and audit configuration changes in edge environments
+
+### References
+
+[Edge Workload Configuration pattern - Cloud Design Patterns | Microsoft Learn](https://learn.microsoft.com/en-us/azure/architecture/patterns/edge-workload-configuration)

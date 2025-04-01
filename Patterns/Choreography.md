@@ -1,8 +1,6 @@
 [[Architecture Patterns Index]] #SoftwareEngineering #Behavioural
 # Choreography
 
-[Choreography pattern - Azure Architecture Center | Microsoft Learn](https://learn.microsoft.com/en-us/azure/architecture/patterns/choreography)
-
 "Have each component of the system participate in the decision-making process about the workflow of a business transaction, instead of relying on a central point of control."
 
 Usually related to microservices, the choreography pattern (along with the related orchestrator pattern) are ways of handling communication in a microservices architecture.
@@ -20,3 +18,7 @@ Another example:
 ![[Pasted image 20240307161852.png]]
 
 Here instead of the messages being centrally orchestrated, each component decides how to deal with it and passes it to the next microservice in the chain: Ingestion > Packing > Scheduling > Delivery.
+
+### References
+
+[Choreography pattern - Azure Architecture Center | Microsoft Learn](https://learn.microsoft.com/en-us/azure/architecture/patterns/choreography)

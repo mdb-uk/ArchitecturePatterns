@@ -10,3 +10,7 @@ The Responder components handle the tasks assigned by the Controller.
 This pattern is useful in situations where tasks can be parallelised, such as multi-threaded applications or distributed systems.
 
 ![[Pasted image 20240913104847.png]]
+
+### References
+
+[Controller Responder Pattern - Scaler Topics](https://www.scaler.com/topics/software-engineering/controller-responder-pattern/)

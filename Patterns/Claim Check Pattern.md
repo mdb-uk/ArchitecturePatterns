@@ -26,7 +26,7 @@ Use cases
 
 ![[Pasted image 20241105153420.png]]
 
-References
+### References
 
 [Claim-Check pattern - Azure Architecture Center | Microsoft Learn](https://learn.microsoft.com/en-us/azure/architecture/patterns/claim-check)
 [Claim-Check Pattern: When To Split a Large Message Into a Claim-Check and a Payload | AKF Partners](https://akfpartners.com/growth-blog/claim-check-pattern)

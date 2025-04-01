@@ -39,3 +39,9 @@ Example Azure services for event streaming is Event Hubs.
 - Guranteed delivery can be an issue
 - Order of operations or only-once can be challenging
 - Coordinating messages across services (workflow patterns such as choreography or saga orchestration can help with this)
+
+### References
+
+[Event-driven architecture style - Azure Architecture Center | Microsoft Learn](https://learn.microsoft.com/en-us/azure/architecture/guide/architecture-styles/event-driven)
+
+[Event-Driven Architecture – System Design | GeeksforGeeks](https://www.geeksforgeeks.org/event-driven-architecture-system-design/)

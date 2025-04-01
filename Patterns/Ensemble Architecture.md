@@ -13,3 +13,7 @@ LLM encoders work similarly to Traditional AIs, but they use larger models so ar
 Hybrid ensemble models pick the beneficial aspects of these various types of models and combine their strengths
 
 ![[Pasted image 20250228135003.png]]
+
+### References
+
+https://www.youtube.com/watch?v=UvZAaeBhOBs
