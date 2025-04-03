@@ -1,8 +1,6 @@
  [[Architecture Patterns Index]] #Decoupling #ApplicationArchitecture
 # Layered (n-tier)
 
-https://www.oreilly.com/library/view/software-architecture-patterns/9781491971437/ch01.html
-
 The most common architecture pattern, also known as the n-tier architecture.
 
 Components are organized into horizontal layers, each performing a specific role within the application such as presentation or business logic.
@@ -35,3 +33,7 @@ It is a solid general purpose pattern and often a good starting point. It's easy
 - Deployment can be tricky (often having to redeploy entire app) and it's not very agile
 - Not very scalable
 - Not very performant
+
+### References
+
+https://www.oreilly.com/library/view/software-architecture-patterns/9781491971437/ch01.html

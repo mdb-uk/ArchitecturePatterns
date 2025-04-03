@@ -33,3 +33,5 @@ Without gateway aggregation:
 With Gateway Aggregation:
 ![[Pasted image 20241121142729.png]]
 ### References
+
+[Gateway Aggregation pattern - Azure Architecture Center | Microsoft Learn](https://learn.microsoft.com/en-us/azure/architecture/patterns/gateway-aggregation)
