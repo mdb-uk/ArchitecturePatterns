@@ -16,3 +16,9 @@ Here is a comparison of Shared-Nothing Architecture with [[Shared-Disk Architect
 | 7.     | Its advantage is that it has high availability.                                                                    | Its advantage is that it has unlimited scalability.                                                                                                                                                                                                                                                                                                                        |
 | 8.     | **Pros-**<br><br>- Easy to scale<br>- reduces single points of failure, makes upgrades easier, and avoids downtime | **Pros-**<br><br>- It can scale up to a fair amount of CPUs.<br>- Each processor possess its own memory so the memory bus is not an obstruction.<br>- Fault tolerance as the database is stored on discs that are accessible from all processors so in that case other processors can take over the task if one fails.                                                     |
 | 9.     | **Cons-**<br><br>- Deterioration in performance<br>- Expensive                                                     | **Cons-**<br><br>- No scalability in the architecture because the disc subsystem’s interconnection is currently the bottleneck.<br>- Slower CPU to CPU communication because of passing through a communication network.<br>- Slow down in the speed of current CPUs because of added more CPUs leads to the increased competition for memory access in network bandwidth. |
+![[Pasted image 20250414101326.png]]
+### References
+
+[Shared Nothing Architecture | GeeksforGeeks](https://www.geeksforgeeks.org/shared-nothing-architecture/)
+
+[Shared Disk vs. Shared Nothing Architectures: Understanding the Differences | by Vignesh Pathakamuri | Medium](https://medium.com/@vigneshpathakamuri6/shared-disk-vs-shared-nothing-architectures-understanding-the-differences-93913860d39f)

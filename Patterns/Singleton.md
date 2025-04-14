@@ -23,3 +23,9 @@ Disadvantages
 - Can mask bad design
 - Requires special treatment in multithreaded environments so different threads don't create different singletons
 - Hard to test as you cannot mock the Singleton normally
+
+### References
+
+https://www.geeksforgeeks.org/singleton-design-pattern/
+
+https://refactoring.guru/design-patterns/singleton

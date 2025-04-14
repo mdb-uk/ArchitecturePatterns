@@ -8,3 +8,9 @@ The core idea behind Hyper Converged Infrastructure (HCI) is to virtualize the p
 - HCI typically runs on on COTS servers
 
 ![[Pasted image 20240111123220.png]]
+
+### References
+
+[Hyper-converged infrastructure - Wikipedia](https://en.wikipedia.org/wiki/Hyper-converged_infrastructure)
+
+[What is hyperconverged infrastructure? | IBM](https://www.ibm.com/think/topics/hyperconverged-infrastructure)

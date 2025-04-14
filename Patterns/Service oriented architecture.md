@@ -1,7 +1,7 @@
 [[Architecture Patterns Index]] #ApplicationArchitecture #Decoupling
 # Service oriented architecture
 
-This pattern allows services to communicate over a network.
+This pattern allows services to communicate over a network. AKA [[SOA]].
 
 Some characteristics of the service oriented pattern:
 
