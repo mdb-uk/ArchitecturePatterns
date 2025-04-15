@@ -70,6 +70,7 @@
 | [[Mediator Pattern]]                          | #SoftwareEngineering #Behavioural               |
 | [[Memento Pattern]]                           | #SoftwareEngineering #Behavioural               |
 | [[Microkernel (Plugin)]]                      | #Decoupling                                     |
+| [[Micro-frontends]]                            | #Microservices #Decoupling #Decentralisation    |
 | [[Microservices]]                             | #Microservices #Decoupling #Decentralisation    |
 | [[Modular Monolith Architecture]]             | #ApplicationArchitecture #Decoupling            |
 | [[Monolith]]                                  | #ApplicationArchitecture                        |
