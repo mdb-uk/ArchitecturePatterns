@@ -16,8 +16,14 @@ They are essentially wrappers around an external API that are able to communicat
 
 Custom MCP servers can also be built though and simply need to accept the request from the LLM in the correct format, translate that request into the correct format for whatever external tool you wish to communicate with, and then send the request. Finally, the response received would be parsed back to the LLM format and returned to the LLM.
 
+![[Pasted image 20250714142127.png]]
+![[Pasted image 20250714142138.png]]
+![[Pasted image 20250714142153.png]]
+
 ### References
 
 [MCP (Model Context Protocol): Simply explained in 5 minutes](https://read.highgrowthengineer.com/p/mcps-simply-explained)
 
 [Model Context Protocol (MCP): Integrating Azure OpenAI for Enhanced Tool Integration and Prompting | Microsoft Community Hub](https://techcommunity.microsoft.com/blog/azure-ai-services-blog/model-context-protocol-mcp-integrating-azure-openai-for-enhanced-tool-integratio/4393788)
+
+[Core architecture - Model Context Protocol](https://modelcontextprotocol.io/docs/concepts/architecture)
