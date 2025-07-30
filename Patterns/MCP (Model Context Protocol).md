@@ -20,6 +20,19 @@ Custom MCP servers can also be built though and simply need to accept the reques
 ![[Pasted image 20250714142138.png]]
 ![[Pasted image 20250714142153.png]]
 
+- An Agent can really just be thought of as a Microservice
+- The MCP Host agent pulls in the MCP client library to create a client instance
+- There will also be an MCP server (either yours or someone elses)
+- The server has capabilities to offer, things like tools, resources, prompts - all bound by the MCP specs in the way it is offered
+- stdio can be used to communicate between the MCP host and MCP server in a local environment
+- More enterprise situations will use HTTP/SSE to communicate, and messages will be in JSON/RPC formats
+- MCP servers can send async messages back to the client as well
+- The client agent can interrogate the resources of servers it knows about
+- The client will use it's LLM model to process the NL input and work out what capabilities it might need to achieve the ask
+- In the definition of the tools/capabilities you include the way it works, params etc, so the LLM can decide how that needs to be invoked and therefore your actual agent doesn't need to be programmed to know how to do any of that
+- The model recommends a course of action  and the Agent's client code makes the decision and actually invokes the capabilities (potentially with HITL input)
+- MCP clients/servers are composable - a server can be a client itself to achieve other aims
+![[Pasted image 20250730140103.png]]
 ### References
 
 [MCP (Model Context Protocol): Simply explained in 5 minutes](https://read.highgrowthengineer.com/p/mcps-simply-explained)
@@ -27,3 +40,5 @@ Custom MCP servers can also be built though and simply need to accept the reques
 [Model Context Protocol (MCP): Integrating Azure OpenAI for Enhanced Tool Integration and Prompting | Microsoft Community Hub](https://techcommunity.microsoft.com/blog/azure-ai-services-blog/model-context-protocol-mcp-integrating-azure-openai-for-enhanced-tool-integratio/4393788)
 
 [Core architecture - Model Context Protocol](https://modelcontextprotocol.io/docs/concepts/architecture)
+
+https://www.youtube.com/watch?v=FLpS7OfD5-s&list=WL&index=21
