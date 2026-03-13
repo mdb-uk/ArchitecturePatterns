@@ -37,6 +37,7 @@
 | [[CQRS]]                                      | #EventDriven #Decoupling                             |
 | [[Decorator Pattern]]                         | #SoftwareEngineering #Structural                     |
 | [[Deployment Stamps Pattern]]                 | #Scalability #Containers #HADR #Resilience           |
+| [[Distributed Authorisation Model]]           | #Auth                                                |
 | [[Distributed Monolith]]                      | #Antipattern                                         |
 | [[Edge Workload Configuration Pattern]]       | #EdgeComputing                                       |
 | [[Ensemble Architecture]]                     | #AI                                                  |
@@ -94,6 +95,7 @@
 | [[Queue-based load levelling pattern]]        | #Communication #Decoupling                           |
 | [[RAG AI Agent with Chat history]]            | #AI #Agent #RAG                                      |
 | [[Rate Limiting Pattern]]                     | #API #Cybersecurity                                  |
+| [[Resource-enforcer]]                         | #Auth                                                |
 | [[Retry Pattern]]                             | #ErrorHandling                                       |
 | [[Reverse Proxy]]                             | #API                                                 |
 | [[Saga Pattern]]                              | #DistributedSystems #Microservices                   |
